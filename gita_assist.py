@@ -38,7 +38,7 @@ with st.container():
     stick_header()
 
     # Set the title
-    st.title('Product Recommendation Assistant')
+    st.title('Gita Assistant')
 
     # set explanation 
     with st.expander("Assistants Role"):
